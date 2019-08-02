@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">campusHaat</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_filterText">Filter</string>
+    <string name="nav_apply_filter">Apply Filter</string>
+    <string name="nav_header_title"><u>Filter Occupancy Types</u></string>
+</resources>

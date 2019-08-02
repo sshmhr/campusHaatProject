@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="checkbox" parent="@android:style/Widget.DeviceDefault.Light.CompoundButton.CheckBox">
+        <item name="android:textSize">20sp</item>
+        <item name="android:buttonTint">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#B0BEC5</item>
+        <item name="colorControlNormal">@color/colorAccent</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <item name="android:padding">10dp</item>
+    </style>
+</resources>
